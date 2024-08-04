@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>10.0</LangVersion>
+    <Nullable>enable</Nullable>
+    <AssemblyName>CutilloRigby.Extensions.String</AssemblyName>
+    <RootNamespace>CutilloRigby.Extensions.String</RootNamespace>
+    <PackageId>CutilloRigby.Extensions.String</PackageId>
+    <Authors>Martin Cutillo-Rigby</Authors>
+    <Company>Martin Cutillo-Rigby</Company>
+    <Product>CutilloRigby.Extensions.String</Product>
+    <Version>1.0.0</Version>
+    <Description>String Extension Methods</Description>
+    <Copyright>Martin Cutillo-Rigby 2020</Copyright>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+
+</Project>
